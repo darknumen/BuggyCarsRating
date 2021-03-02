@@ -20,3 +20,7 @@ Clone a repository based on the GitHub link: https://github.com/darknumen/BuggyC
 			https://account.specflow.org/clientactivation/welcome/Runner/5B96CC06961A43DA91F9C5451EDCB799CFFA72727BCE6786C6607017C35C93D6E5B3EC9C/NotActivatedYet
 		d. Follow the link and register to activate
 		e. Run the tests again and it should work
+
+
+FYI:
+- automation settings are placed in the App.config file
