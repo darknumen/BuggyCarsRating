@@ -1,5 +1,6 @@
 # BuggyCarsRating
-automation for site: Buggy Cars Rating
+Automation for website: Buggy Cars Rating
+link: https://buggy.justtestit.org/
 
 HOW TO --
 
