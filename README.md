@@ -24,3 +24,4 @@ Clone a repository based on the GitHub link: https://github.com/darknumen/BuggyC
 
 FYI:
 - automation settings are placed in the App.config file
+- Test Result Report is generated on the TestResult folder on the same level as the SeleniumSpecflow.sln
