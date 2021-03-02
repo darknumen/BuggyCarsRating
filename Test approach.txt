@@ -1,0 +1,27 @@
+Test Approach:
+
+
+Divide the testing into separate areas to have greater coverage of the entire site functionality.
+
+
+1. Registration
+	a. Check for mandatory fields, limits, security vulnerabilities (sql injection)
+	b. Check for successful creation and use as a new login credentials
+
+2. Login
+	a. Using valid credentials
+	b. Using invalid credentials, sql injection to bypass
+	c. Logoff user
+	
+3. Site Functionality
+	a. Profile update
+		a1. field checks, vulnerabilities, limitations
+		a2. saved successfully and data retrieval
+	b. Votes/Comments
+		b1. Comment field check, limits, vulnerability
+		b2. Vote count
+
+4. Site Navigation
+	a. Links are working
+	b. Image are displayed
+	c. Pagination, etc..
